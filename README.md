@@ -23,3 +23,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 Belajar kelas AI
 Belajar Apa itu AI
 Belajar Apa Itu Machine Learning
+Belajar Apa Itu Deep Learning
