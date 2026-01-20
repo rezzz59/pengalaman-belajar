@@ -22,3 +22,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **21 Juni 2021**
 Belajar kelas AI
 Belajar Apa itu AI
+Belajar Apa Itu Machine Learning
