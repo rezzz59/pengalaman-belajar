@@ -24,3 +24,4 @@ Belajar kelas AI
 Belajar Apa itu AI
 Belajar Apa Itu Machine Learning
 Belajar Apa Itu Deep Learning
+
